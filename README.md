@@ -1,4 +1,4 @@
-# DT266 - Implement SAP S/4HANA Cloud with SAP Model Company Using SAP Cloud ALM
+# DT266 - Implement SAP S/4HANA Cloud with SAP Best Practices Using SAP Cloud ALM
 
 ## Description
 
