@@ -4,7 +4,7 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-[Step 1: ](Access Overview tile)
+### Step 1: Access Overview tile
 
 
 
@@ -14,7 +14,7 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-[Step 2: ](Navigate to scope task)
+### Step 2: Navigate to scope task
 
 
 
@@ -24,7 +24,7 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-[Step 3: ](Start process list)
+### Step 3: Start process list
 
 
 
@@ -34,7 +34,7 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-[Step 4: ](Toggle edit mode)
+### Step 4: Toggle edit mode
 
 
 
@@ -44,7 +44,7 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-[Step 5: ](Open Manage Scopes dialog)
+### Step 5: Open Manage Scopes dialog
 
 
 
@@ -54,11 +54,11 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-[Step 6: ](Add new Scope)
+### Step 6: Add new Scope
 
 
 
-\(1\) Click  **Add ** to add new Scope.
+\(1\) Click  **Add** to add new Scope.
 
 \(2\) Enter  **Sales Processes France**  in the text field.
 
@@ -68,13 +68,13 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-[Step 7: ](Set process list filter values)
+### Step 7: Set process list filter values
 
 
 
 \(1\) Set ![](Markdown_files/fieldicon04.png) in Scope filter.
 
-\(2\) Set  **France ** in Country/Region filter.
+\(2\) Set  **France** in Country/Region filter.
 
 \(3\) Set ![](Markdown_files/fieldicon05.png) in Solution Scenario filter.
 
@@ -82,7 +82,7 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-[Step 8: ](Add processes to scope)
+### Step 8: Add processes to scope
 
 
 
@@ -102,7 +102,7 @@ Beside BD9 please also add the processes BD6, BKK, J59, and BKP.
 
 
 
-[Step 9: ](Conclude scoping mode)
+### Step 9: Conclude scoping mode
 
 
 
@@ -112,7 +112,7 @@ Beside BD9 please also add the processes BD6, BKK, J59, and BKP.
 
 
 
-[Step 10: ](Check process scope)
+### Step 10: Check process scope
 
 
 
@@ -128,7 +128,7 @@ Check that you set all five processes in scope.
 
 
 
-[Step 11: ](Processes - Google Chrome)
+### Step 11: Processes - Google Chrome
 
 
 
@@ -138,7 +138,7 @@ Check that you set all five processes in scope.
 
 
 
-[Step 12: ](Navigate to Overview tile)
+### Step 12: Navigate to Overview tile
 
 
 
@@ -148,7 +148,7 @@ Check that you set all five processes in scope.
 
 
 
-[Step 13: ](Open task)
+### Step 13: Open task
 
 
 
@@ -158,7 +158,7 @@ Check that you set all five processes in scope.
 
 
 
-[Step 14: ](Set task done)
+### Step 14: Set task done
 
 
 
@@ -168,7 +168,7 @@ Check that you set all five processes in scope.
 
 
 
-[Step 15: ](Navigate back to Overview page)
+### Step 15: Navigate back to Overview page
 
 
 
@@ -178,7 +178,7 @@ Check that you set all five processes in scope.
 
 
 
-[Step 16: ](Review phase and navigate to project setup)
+### Step 16: Review phase and navigate to project setup
 
 
 
@@ -188,7 +188,7 @@ Check that you set all five processes in scope.
 
 
 
-[Step 17: ](Toggle edit mode)
+### Step 17: Toggle edit mode
 
 
 
@@ -198,7 +198,7 @@ Check that you set all five processes in scope.
 
 
 
-[Step 18: ](Change project phase)
+### Step 18: Change project phase
 
 
 
@@ -210,7 +210,7 @@ Check that you set all five processes in scope.
 
 
 
-[Step 19: ](Navigate back to Overview page)
+### Step 19: Navigate back to Overview page
 
 
 
@@ -220,7 +220,7 @@ Check that you set all five processes in scope.
 
 
 
-[Step 20: ](Review project phase)
+### Step 20: Review project phase
 
 
 
