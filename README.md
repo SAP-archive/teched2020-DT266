@@ -1,45 +1,36 @@
 # DT266 - Implement SAP S/4HANA Cloud with SAP Best Practices Using SAP Cloud ALM
 
-## Description
-
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title.  
-
 ## Overview
 
-This session introduces attendees to...
+**Good day!**
+
+Today you take the hat of Bobby Blair who is a Business Process Expert and working as Project Lead for the SAP S/4HANA Clound implementation at Acron Heating Inc. The implementation project focusses on implementing sales processes in Acon's french subsidary.​
+
+Eventhough Bobby is very experienced, guidance on how to setup and manage SAP implementation projects especially in the cloud is highls appreciated. Luckily Bobby can use SAP Cloud ALM.
+
+In this workshop you will lean how SAP Cloud ALM can help Bobby (you)  to run a successful project. The workshop is structured into eight chapters and we recommend finish with one chapter before moving on to the next. The chapter build on each other.
+
+Now you can get started. We hope you enjoy the session.
+
+​Cheers, 
+**Your SAP Cloud ALM team**
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The one and only thing you need is a modern browser.
 
 ## Exercises
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
-    
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
-
-## How to obtain support
-
-Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
+- [Chapter 1: Onboarding](exercises/Chapter1/Markdown.md)
+- [Chapter 2: Project Setup](exercises/Chapter2/Markdown.md)
+- [Chapter 3: Define Process Scope](exercises/Chapter3/Markdown.md)
+- [Chapter 4: Review and Adjust Implementation Roadmap](exercises/Chapter4/Markdown.md)
+- [Chapter 5: Conduct Fit-to-Standard Workshop](exercises/Chapter5/Markdown.md)
+- [Chapter 6: Finalize and Approve Requirements](exercises/Chapter6/Markdown.md)
+- [Chapter 7: Prepare Test](exercises/Chapter7/Markdown.md)
+- [Chapter 8: Execute Test](exercises/Chapter8/Markdown.md)
 
 ## License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
