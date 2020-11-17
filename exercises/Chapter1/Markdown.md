@@ -4,7 +4,7 @@ First, you need to access your SAP Cloud ALM tenant. This chapter will show how 
 
 
 
-[Step 1: ](Access http://alm.cloud.sap)
+### Step 1: Access http://alm.cloud.sap
 
 
 
@@ -14,7 +14,7 @@ First, you need to access your SAP Cloud ALM tenant. This chapter will show how 
 
 
 
-[Step 2: ](Access your SAP Cloud ALM tenant)
+### Step 2: Access your SAP Cloud ALM tenant
 
 
 
@@ -26,7 +26,7 @@ First, you need to access your SAP Cloud ALM tenant. This chapter will show how 
 
 
 
-[Step 3: ](Logon to the tenant)
+### Step 3: Logon to the tenant
 
 
 
@@ -40,13 +40,13 @@ First, you need to access your SAP Cloud ALM tenant. This chapter will show how 
 
 
 
-[Step 4: ](Welcome!)
+### Step 4: Welcome!
 
 
 
 ![](Markdown_files/info_word.png)
 
- **Congatulations\! ** 
+ **Congatulations\!** 
 
 You succesfully accessed your SAP Cloud ALM tenant.
 

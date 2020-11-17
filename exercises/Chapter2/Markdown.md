@@ -4,7 +4,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-[Step 1: ](Access Project Tile)
+### Step 1: Access Project Tile
 
 
 
@@ -14,7 +14,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-[Step 2: ](Create new project)
+### Step 2: Create new project
 
 
 
@@ -24,13 +24,13 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-[Step 3: ](Maintain project data)
+### Step 3: Maintain project data
 
 
 
 \(1\) Enter  **SAP S/4HANA Cloud &#64; Acron Heating Inc. \(&lt;Group&gt;\)**  with &lt;Group&gt; beein A or B as told by your instructor.
 
-\(2\) Select  **SAP S/4HANA Cloud ** as Task Template.
+\(2\) Select  **SAP S/4HANA Cloud** as Task Template.
 
 \(3\) Click  ![](Markdown_files/fieldicon01.png) as set  **Jan 4, 2021**  as End of Prepare Phase.
 
@@ -52,7 +52,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-[Step 4: ](Save the project)
+### Step 4: Save the project
 
 
 
@@ -62,7 +62,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-[Step 5: ](Switch to Team tab)
+### Step 5: Switch to Team tab
 
 
 
@@ -72,7 +72,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-[Step 6: ](Toggle edit)
+### Step 6: Toggle edit
 
 
 
@@ -82,7 +82,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-[Step 7: ](Maintain project team)
+### Step 7: Maintain project team
 
 
 
@@ -94,7 +94,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-[Step 8: ](Save project team)
+### Step 8: Save project team
 
 
 
@@ -104,7 +104,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-[Step 9: ](Back to Launchpad)
+### Step 9: Back to Launchpad
 
 
 
@@ -114,7 +114,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-[Step 10: ](Navigate to Overview tile)
+### Step 10: Navigate to Overview tile
 
 
 
@@ -124,7 +124,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-[Step 11: ](Navigate to task)
+### Step 11: Navigate to task
 
 
 
@@ -134,7 +134,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-[Step 12: ](Set task to Done)
+### Step 12: Set task to Done
 
 
 
@@ -144,7 +144,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-[Step 13: ](Navigate back to Overview page.)
+### Step 13: Navigate back to Overview page.
 
 
 
