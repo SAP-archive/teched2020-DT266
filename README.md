@@ -12,6 +12,7 @@ In this workshop you will lean how SAP Cloud ALM can help Bobby (you)  to run a 
 Now you can get started. We hope you enjoy the session.
 
 ​Cheers, 
+
 **Your SAP Cloud ALM team**
 
 ## Requirements
