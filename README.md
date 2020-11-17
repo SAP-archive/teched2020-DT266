@@ -8,8 +8,7 @@ Today you take the hat of Bobby Blair who is a Business Process Expert and worki
 
 Eventhough Bobby is very experienced, guidance on how to setup and manage SAP implementation projects especially in the cloud is highls appreciated. Luckily Bobby can use SAP Cloud ALM.
 
-In this workshop you will lean how SAP Cloud ALM can help Bobby (you)  to run a successful project. The workshop is structured into eight chapters and we recommend finish with one chapter before moving on to the next. The chapter build on each other.
-
+In this workshop you will lean how SAP Cloud ALM can help Bobby (you)  to run a successful project. 
 Now you can get started. We hope you enjoy the session.
 
 ​Cheers, 
@@ -21,7 +20,7 @@ The one and only thing you need is a modern browser.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+The workshop is structured into eight chapters and we recommend finish with one chapter before moving on to the next. The chapter build on each other.
 
 - [Chapter 1: Onboarding](exercises/Chapter1/Markdown.md)
 - [Chapter 2: Project Setup](exercises/Chapter2/Markdown.md)

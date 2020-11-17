@@ -4,7 +4,7 @@ After conducting Fit\-to\-Standard workshops, you will review, complete, and app
 
 
 
-[Step 1: ](Open Overview Page)
+### Step 1: Open Overview Page
 
 
 
@@ -14,7 +14,7 @@ After conducting Fit\-to\-Standard workshops, you will review, complete, and app
 
 
 
-[Step 2: ](Open Upcoming Tasks)
+### Step 2: Open Upcoming Tasks
 
 
 
@@ -24,7 +24,7 @@ After conducting Fit\-to\-Standard workshops, you will review, complete, and app
 
 
 
-[Step 3: ](Open Application)
+### Step 3: Open Application
 
 
 
@@ -38,7 +38,7 @@ Find  **Review and Complete Requirements**  task and click  ![](Markdown_files/f
 
 
 
-[Step 4: ](Open Requirement)
+### Step 4: Open Requirement
 
 
 
@@ -48,7 +48,7 @@ Find  **Review and Complete Requirements**  task and click  ![](Markdown_files/f
 
 
 
-[Step 5: ](Maintain Requirement)
+### Step 5: Maintain Requirement
 
 
 
@@ -62,7 +62,7 @@ Find  **Review and Complete Requirements**  task and click  ![](Markdown_files/f
 
 
 
-[Step 6: ](Mark Requirement)
+### Step 6: Mark Requirement
 
 
 
@@ -72,7 +72,7 @@ Find  **Review and Complete Requirements**  task and click  ![](Markdown_files/f
 
 
 
-[Step 7: ](Generate Task)
+### Step 7: Generate Task
 
 
 
@@ -82,7 +82,7 @@ Find  **Review and Complete Requirements**  task and click  ![](Markdown_files/f
 
 
 
-[Step 8: ](Confirm Task Generation)
+### Step 8: Confirm Task Generation
 
 
 
@@ -92,7 +92,7 @@ Find  **Review and Complete Requirements**  task and click  ![](Markdown_files/f
 
 
 
-[Step 9: ](Open Requirement)
+### Step 9: Open Requirement
 
 
 
@@ -110,7 +110,7 @@ A task icon appears in front of the requirement after successful task genenratio
 
 
 
-[Step 10: ](Navigate to Generated Task)
+### Step 10: Navigate to Generated Task
 
 
 
@@ -130,7 +130,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 
 
-[Step 11: ](Open Launchpad)
+### Step 11: Open Launchpad
 
 
 
@@ -140,7 +140,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 
 
-[Step 12: ](Tasks - Google Chrome)
+### Step 12: Tasks - Google Chrome
 
 
 
@@ -150,7 +150,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 
 
-[Step 13: ](Display Launchpad)
+### Step 13: Display Launchpad
 
 
 
@@ -160,7 +160,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 
 
-[Step 14: ](Tasks - Google Chrome)
+### Step 14: Tasks - Google Chrome
 
 
 
@@ -170,7 +170,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 
 
-[Step 15: ](Tasks - Google Chrome)
+### Step 15: Tasks - Google Chrome
 
 
 
@@ -180,7 +180,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 
 
-[Step 16: ](Tasks - Google Chrome)
+### Step 16: Tasks - Google Chrome
 
 
 
@@ -192,7 +192,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 
 
-[Step 17: ](Tasks - Google Chrome)
+### Step 17: Tasks - Google Chrome
 
 
 

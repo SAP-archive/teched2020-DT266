@@ -4,7 +4,7 @@ Fit\-to\-Standard workshops are at the heart of every cloud implementation proje
 
 
 
-[Step 1: ](Navigate to Overview page)
+### Step 1: Navigate to Overview page
 
 
 
@@ -14,7 +14,7 @@ Fit\-to\-Standard workshops are at the heart of every cloud implementation proje
 
 
 
-[Step 2: ](Open Upcoming Tasks)
+### Step 2: Open Upcoming Tasks
 
 
 
@@ -24,7 +24,7 @@ Fit\-to\-Standard workshops are at the heart of every cloud implementation proje
 
 
 
-[Step 3: ](Set Task Status)
+### Step 3: Set Task Status
 
 
 
@@ -36,7 +36,7 @@ Fit\-to\-Standard workshops are at the heart of every cloud implementation proje
 
 
 
-[Step 4: ](Open Application)
+### Step 4: Open Application
 
 
 
@@ -46,7 +46,7 @@ Fit\-to\-Standard workshops are at the heart of every cloud implementation proje
 
 
 
-[Step 5: ](Open Process)
+### Step 5: Open Process
 
 
 
@@ -56,7 +56,7 @@ Fit\-to\-Standard workshops are at the heart of every cloud implementation proje
 
 
 
-[Step 6: ](Open Process Flow)
+### Step 6: Open Process Flow
 
 
 
@@ -70,7 +70,7 @@ Click  ![](Markdown_files/fieldicon00.png) to navigate to  **Sell from Stock \(B
 
 
 
-[Step 7: ](Review Solution Activity)
+### Step 7: Review Solution Activity
 
 
 
@@ -80,7 +80,7 @@ Click  ![](Markdown_files/fieldicon00.png) to navigate to  **Sell from Stock \(B
 
 
 
-[Step 8: ](Create Requirement)
+### Step 8: Create Requirement
 
 
 
@@ -90,7 +90,7 @@ Click  ![](Markdown_files/fieldicon00.png) to navigate to  **Sell from Stock \(B
 
 
 
-[Step 9: ](Maintain Requirement)
+### Step 9: Maintain Requirement
 
 
 
@@ -98,7 +98,7 @@ Click  ![](Markdown_files/fieldicon00.png) to navigate to  **Sell from Stock \(B
 
 \(2\) Set ![](Markdown_files/fieldicon03.png) as Workstream.
 
-\(3\) Enter  **Please adjust order type so that the sales order is released immediately. ** as description.
+\(3\) Enter  **Please adjust order type so that the sales order is released immediately.** as description.
 
 \(4\) Click  ![](Markdown_files/fieldicon04.png).
 
@@ -106,7 +106,7 @@ Click  ![](Markdown_files/fieldicon00.png) to navigate to  **Sell from Stock \(B
 
 
 
-[Step 10: ](Create Note)
+### Step 10: Create Note
 
 
 
@@ -116,7 +116,7 @@ Click  ![](Markdown_files/fieldicon00.png) to navigate to  **Sell from Stock \(B
 
 
 
-[Step 11: ](Maintain Note)
+### Step 11: Maintain Note
 
 
 
@@ -134,7 +134,7 @@ as description
 
 
 
-[Step 12: ](Close Note)
+### Step 12: Close Note
 
 
 
@@ -152,7 +152,7 @@ Check the requirement and note are visible in the side panel.
 
 
 
-[Step 13: ](Open Sub-Process)
+### Step 13: Open Sub-Process
 
 
 
@@ -162,7 +162,7 @@ Check the requirement and note are visible in the side panel.
 
 
 
-[Step 14: ](Navigate to Launchpad)
+### Step 14: Navigate to Launchpad
 
 
 
@@ -172,7 +172,7 @@ Check the requirement and note are visible in the side panel.
 
 
 
-[Step 15: ](Open Task List)
+### Step 15: Open Task List
 
 
 
@@ -182,7 +182,7 @@ Check the requirement and note are visible in the side panel.
 
 
 
-[Step 16: ](Set Task Status)
+### Step 16: Set Task Status
 
 
 

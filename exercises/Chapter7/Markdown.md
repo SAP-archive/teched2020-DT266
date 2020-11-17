@@ -4,7 +4,7 @@ Once changes have been implemented, it's time for proper manual testing \(for su
 
 
 
-[Step 1: ](Open Test Preparation)
+### Step 1: Open Test Preparation
 
 
 
@@ -14,7 +14,7 @@ Once changes have been implemented, it's time for proper manual testing \(for su
 
 
 
-[Step 2: ](Open Process)
+### Step 2: Open Process
 
 
 
@@ -28,7 +28,7 @@ Once changes have been implemented, it's time for proper manual testing \(for su
 
 
 
-[Step 3: ](Create Test Case)
+### Step 3: Create Test Case
 
 
 
@@ -38,7 +38,7 @@ Once changes have been implemented, it's time for proper manual testing \(for su
 
 
 
-[Step 4: ](Set Test Case Scope)
+### Step 4: Set Test Case Scope
 
 
 
@@ -50,7 +50,7 @@ Once changes have been implemented, it's time for proper manual testing \(for su
 
 
 
-[Step 5: ](Toggle Edit)
+### Step 5: Toggle Edit
 
 
 
@@ -60,7 +60,7 @@ Once changes have been implemented, it's time for proper manual testing \(for su
 
 
 
-[Step 6: ](Maintain Solution Action)
+### Step 6: Maintain Solution Action
 
 
 
@@ -82,7 +82,7 @@ as Instructions.
 
 
 
-[Step 7: ](Add Solution Action)
+### Step 7: Add Solution Action
 
 
 
@@ -92,7 +92,7 @@ as Instructions.
 
 
 
-[Step 8: ](Maintain Solution Action)
+### Step 8: Maintain Solution Action
 
 
 
@@ -104,7 +104,7 @@ as Instructions.
 
 
 
-[Step 9: ](Save Solution Action)
+### Step 9: Save Solution Action
 
 
 
@@ -114,7 +114,7 @@ as Instructions.
 
 
 
-[Step 10: ](Add Solution Action)
+### Step 10: Add Solution Action
 
 
 
@@ -124,7 +124,7 @@ as Instructions.
 
 
 
-[Step 11: ](Maintain Solution Action)
+### Step 11: Maintain Solution Action
 
 
 
@@ -138,7 +138,7 @@ as Instructions.
 -   **Order Type: OR** 
 -   **Sales Organization: 1210** 
 -   **Distribution Channel: 10** 
--   **Division: 00 ** 
+-   **Division: 00** 
 
 #
 
@@ -148,7 +148,7 @@ as Instructions.
 
 
 
-[Step 12: ](Save Solution Action)
+### Step 12: Save Solution Action
 
 
 
@@ -158,7 +158,7 @@ as Instructions.
 
 
 
-[Step 13: ](Add Solution Action)
+### Step 13: Add Solution Action
 
 
 
@@ -168,7 +168,7 @@ as Instructions.
 
 
 
-[Step 14: ](Maintain Solution Action)
+### Step 14: Maintain Solution Action
 
 
 
@@ -193,7 +193,7 @@ as Instructions.
 
 
 
-[Step 15: ](Save Solution Action)
+### Step 15: Save Solution Action
 
 
 
@@ -203,7 +203,7 @@ as Instructions.
 
 
 
-[Step 16: ](Add Solution Action)
+### Step 16: Add Solution Action
 
 
 
@@ -213,7 +213,7 @@ as Instructions.
 
 
 
-[Step 17: ](Maintain Solution Action)
+### Step 17: Maintain Solution Action
 
 
 
@@ -227,7 +227,7 @@ as Instructions.
 
 
 
-[Step 18: ](Save Test Case)
+### Step 18: Save Test Case
 
 
 
@@ -237,7 +237,7 @@ as Instructions.
 
 
 
-[Step 19: ](Set Test Case Prepared)
+### Step 19: Set Test Case Prepared
 
 
 
@@ -247,7 +247,7 @@ as Instructions.
 
 
 
-[Step 20: ](Save Test Case)
+### Step 20: Save Test Case
 
 
 
@@ -257,7 +257,7 @@ as Instructions.
 
 
 
-[Step 21: ](Open Launchpad)
+### Step 21: Open Launchpad
 
 
 
@@ -267,7 +267,7 @@ as Instructions.
 
 
 
-[Step 22: ](Open Test Preparation)
+### Step 22: Open Test Preparation
 
 
 
@@ -275,7 +275,7 @@ as Instructions.
 
 
 
-[Step 23: ](Set Test Readiness)
+### Step 23: Set Test Readiness
 
 
 
@@ -289,7 +289,7 @@ as Instructions.
 
 
 
-[Step 24: ](Open Launchpad)
+### Step 24: Open Launchpad
 
 
 

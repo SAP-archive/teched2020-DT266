@@ -4,7 +4,7 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 
 
-[Step 1: ](Open Test Execution)
+### Step 1: Open Test Execution
 
 
 
@@ -14,7 +14,7 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 
 
-[Step 2: ](Open Process)
+### Step 2: Open Process
 
 
 
@@ -24,7 +24,7 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 
 
-[Step 3: ](Start Test Execution)
+### Step 3: Start Test Execution
 
 
 
@@ -34,7 +34,7 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 
 
-[Step 4: ](Set Test Result)
+### Step 4: Set Test Result
 
 
 
@@ -44,7 +44,7 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 
 
-[Step 5: ](Set Test Result)
+### Step 5: Set Test Result
 
 
 
@@ -58,7 +58,7 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 
 
-[Step 6: ](Set Test Result)
+### Step 6: Set Test Result
 
 
 
@@ -70,7 +70,7 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 
 
-[Step 7: ](Close Test Run)
+### Step 7: Close Test Run
 
 
 
@@ -80,7 +80,7 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 
 
-[Step 8: ](Open Launchpad)
+### Step 8: Open Launchpad
 
 
 
@@ -90,17 +90,17 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 
 
-[Step 9: ](Open Overview Page)
+### Step 9: Open Overview Page
 
 
 
-\(1\) Navigate to  **Overview ** page.
+\(1\) Navigate to  **Overview** page.
 
 ![](Markdown_files/img_007.png)
 
 
 
-[Step 10: ](Reveiw Project Progress)
+### Step 10: Reveiw Project Progress
 
 
 

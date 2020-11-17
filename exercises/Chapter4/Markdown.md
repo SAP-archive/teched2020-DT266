@@ -4,7 +4,7 @@ At project setup you choose a SAP S/4HANA Cloud Roadmap as project tempalte. As 
 
 
 
-[Step 1: ](Navigate to Overview tile)
+### Step 1: Navigate to Overview tile
 
 
 
@@ -14,7 +14,7 @@ At project setup you choose a SAP S/4HANA Cloud Roadmap as project tempalte. As 
 
 
 
-[Step 2: ](Navigate to task list)
+### Step 2: Navigate to task list
 
 
 
@@ -24,7 +24,7 @@ At project setup you choose a SAP S/4HANA Cloud Roadmap as project tempalte. As 
 
 
 
-[Step 3: ](Find all migration tasks)
+### Step 3: Find all migration tasks
 
 
 
@@ -36,7 +36,7 @@ At project setup you choose a SAP S/4HANA Cloud Roadmap as project tempalte. As 
 
 
 
-[Step 4: ](Trigger mass maintenance)
+### Step 4: Trigger mass maintenance
 
 
 
@@ -46,7 +46,7 @@ At project setup you choose a SAP S/4HANA Cloud Roadmap as project tempalte. As 
 
 
 
-[Step 5: ](Set status)
+### Step 5: Set status
 
 
 
@@ -58,7 +58,7 @@ At project setup you choose a SAP S/4HANA Cloud Roadmap as project tempalte. As 
 
 
 
-[Step 6: ](Add manual task)
+### Step 6: Add manual task
 
 
 
@@ -68,7 +68,7 @@ At project setup you choose a SAP S/4HANA Cloud Roadmap as project tempalte. As 
 
 
 
-[Step 7: ](Maintain manual task properties)
+### Step 7: Maintain manual task properties
 
 
 
@@ -90,7 +90,7 @@ You can also adjust the other properties. For instance you can set a phase or as
 
 
 
-[Step 8: ](Close task)
+### Step 8: Close task
 
 
 
@@ -100,7 +100,7 @@ You can also adjust the other properties. For instance you can set a phase or as
 
 
 
-[Step 9: ](Tasks - Google Chrome)
+### Step 9: Tasks - Google Chrome
 
 
 
@@ -110,7 +110,7 @@ You can also adjust the other properties. For instance you can set a phase or as
 
 
 
-[Step 10: ](Tasks - Google Chrome)
+### Step 10: Tasks - Google Chrome
 
 
 
@@ -120,7 +120,7 @@ You can also adjust the other properties. For instance you can set a phase or as
 
 
 
-[Step 11: ](Back to Launchpad)
+### Step 11: Back to Launchpad
 
 
 
