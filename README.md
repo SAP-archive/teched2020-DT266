@@ -20,7 +20,7 @@ The one and only thing you need is a modern browser.
 
 ## Exercises
 
-The workshop is structured into eight chapters and we recommend finish with one chapter before moving on to the next. The chapter build on each other.
+The workshop is structured into eight chapters and we recommend finish with one chapter before moving on to the next. The chapters build on each other.
 
 - [Chapter 1: Onboarding](exercises/Chapter1/Markdown.md)
 - [Chapter 2: Project Setup](exercises/Chapter2/Markdown.md)
