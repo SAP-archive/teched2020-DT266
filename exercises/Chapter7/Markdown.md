@@ -1,4 +1,8 @@
-﻿## Chapter 7: Prepare Test
+﻿[Back](README.md)
+
+---
+
+## Chapter 7: Prepare Test
 
 Once changes have been implemented, it's time for proper manual testing \(for sure only for those parts, wehre you have no atomatic testing available\). In this chapter, you will create Test Cases and prepare a process for manual testing.
 
@@ -301,5 +305,7 @@ as Instructions.
 
 ![](Markdown_files/img_022.png)
 
+---
 
+[Back](README.md)
 

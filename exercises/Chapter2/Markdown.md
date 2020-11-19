@@ -1,4 +1,8 @@
-﻿## Chapter 2: Project Setup
+﻿[Back](README.md)
+
+---
+
+## Chapter 2: Project Setup
 
 In this chapter you will setup the project used for implementing Acron Heatng's SAP S/4HANA Cloud. For instance, you will create the actual project, define milestones, and staff the project.
 
@@ -160,5 +164,7 @@ Repeat steps 12 and 13 with task "Assign Team Members".
 
 ![](Markdown_files/img_011.png)
 
+---
 
+[Back](README.md)
 

@@ -1,4 +1,8 @@
-﻿## Chapter 5: Conduct Fit\-to\-Standard Workshops
+﻿[Back](README.md)
+
+---
+
+## Chapter 5: Conduct Fit\-to\-Standard Workshops
 
 Fit\-to\-Standard workshops are at the heart of every cloud implementation project. In the workshops you will meet with the business departments and demo SAP's best practice processes. You will capture business requirements for needed adjustments, and notes to add additional knowledge or insights.
 
@@ -194,5 +198,7 @@ Check if the requirement and note are visible in the side panel.
 
 ![](Markdown_files/img_014.png)
 
+---
 
+[Back](README.md)
 

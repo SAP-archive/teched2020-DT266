@@ -1,4 +1,8 @@
-﻿## Chapter 4: Review and Adjust Implementation Roadmap
+﻿[Back](README.md)
+
+---
+
+## Chapter 4: Review and Adjust Implementation Roadmap
 
 At project setup you choose a SAP S/4HANA Cloud Roadmap as project tempalte. As some of the tasks may not be needed and other might be missing, you will be adjusting the roadmap by setting not needed taks to bsolete and creating missing tasks.
 
@@ -128,5 +132,7 @@ You can also adjust the other properties. For instance you can set a phase or as
 
 ![](Markdown_files/img_009.png)
 
+---
 
+[Back](README.md)
 

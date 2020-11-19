@@ -1,4 +1,8 @@
-﻿## Chapter 3: Define Process Scope
+﻿[Back](README.md)
+
+---
+
+## Chapter 3: Define Process Scope
 
 This chapter will guide you trough the definition of a Scope holding the processes \(Scope Items\) needed in Acon Heating's french subsidary. You will filter processes by country version, and assign processes to the project scope.
 
@@ -232,5 +236,7 @@ Check that current phase is  **Explore** .
 
 ![](Markdown_files/img_018.png)
 
+---
 
+[Back](README.md)
 
