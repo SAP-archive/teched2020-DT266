@@ -20,7 +20,7 @@ First, you need to access your SAP Cloud ALM tenant. This chapter will show how 
 
 \(1\) Enter "teched\-calm\-&lt;xx&gt;" with your tenant number replacing &lt;xx&gt;.
 
-\(2\) Click  ![](Markdown_files/fieldicon.png).
+\(2\) Click  **Sign\-In** .
 
 ![](Markdown_files/img_000.png)
 
@@ -30,11 +30,11 @@ First, you need to access your SAP Cloud ALM tenant. This chapter will show how 
 
 
 
-\(1\) Enter "teched\-build&lt;xx&gt;" with your tenant number replacing &lt;xx&gt;.
+\(1\) Enter user name "teched\-build&lt;xx&gt;" with your tenant number replacing &lt;xx&gt;.
 
-\(2\) Enter "Teched\-build&lt;xx&gt;" with your tenant number replacing &lt;xx&gt;\.\.
+\(2\) Enter password "Teched\-build&lt;xx&gt;" with your tenant number replacing &lt;xx&gt;.
 
-\(3\) Click  ![](Markdown_files/fieldicon00.png).
+\(3\) Click  ![](Markdown_files/fieldicon.png).
 
 ![](Markdown_files/img_001.png)
 
@@ -46,7 +46,7 @@ First, you need to access your SAP Cloud ALM tenant. This chapter will show how 
 
 ![](Markdown_files/info_word.png)
 
- **Congatulations\!** 
+ **Congratulations\!** 
 
 You succesfully accessed your SAP Cloud ALM tenant.
 

@@ -8,7 +8,7 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-\(1\) Click  **Overview** .
+\(1\) Click the tile  **Overview.** 
 
 ![](Markdown_files/img_0.png)
 
@@ -28,7 +28,7 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon00.png) to start process list.
+\(1\) Click  ![](Markdown_files/fieldicon_220.png) to start process list.
 
 ![](Markdown_files/img_001.png)
 
@@ -38,7 +38,7 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon01.png).
+\(1\) Click  ![](Markdown_files/fieldicon00.png).
 
 ![](Markdown_files/img_002.png)
 
@@ -48,7 +48,7 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon02.png).
+\(1\) Click  ![](Markdown_files/fieldicon01.png).
 
 ![](Markdown_files/img_003.png)
 
@@ -58,11 +58,9 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-\(1\) Click  **Add** to add new Scope.
+\(1\) Enter  **Sales Processes France**  in the text field.
 
-\(2\) Enter  **Sales Processes France**  in the text field.
-
-\(3\) Click  ![](Markdown_files/fieldicon03.png).
+\(2\) Click  ![](Markdown_files/fieldicon02.png).
 
 ![](Markdown_files/img_004.png)
 
@@ -72,11 +70,11 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 
 
-\(1\) Set ![](Markdown_files/fieldicon04.png) in Scope filter.
+\(1\) Set  **Sales Processes France**  in Scope filter.
 
 \(2\) Set  **France** in Country/Region filter.
 
-\(3\) Set ![](Markdown_files/fieldicon05.png) in Solution Scenario filter.
+\(3\) Set  **SAP Best Practices for SAP S/4 HANA Cloud** in Solution Scenario filter.
 
 ![](Markdown_files/img_005.png)
 
@@ -88,11 +86,11 @@ This chapter will guide you trough the definition of a Scope holding the process
 
 \(1\) Enter  **BD9**  in the search field.
 
-\(2\) Click  ![](Markdown_files/fieldicon06.png) to set process in scope.
+\(2\) Click  ![](Markdown_files/fieldicon_239.png) to set process in scope.
 
 ![](Markdown_files/info_word.png)
 
-Beside BD9 please also add the processes BD6, BKK, J59, and BKP.
+Beside BD9 please also add the processes BD6, BKK, J59 and BKP.
 
 
 
@@ -106,7 +104,7 @@ Beside BD9 please also add the processes BD6, BKK, J59, and BKP.
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon07.png).
+\(1\) Click  ![](Markdown_files/fieldicon_241.png).
 
 ![](Markdown_files/img_007.png)
 
@@ -132,7 +130,7 @@ Check that you set all five processes in scope.
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon08.png). to navigate to the Launchpad.
+\(1\) Click  ![](Markdown_files/fieldicon_258.png). to navigate to the Launchpad.
 
 ![](Markdown_files/img_009.png)
 
@@ -142,7 +140,7 @@ Check that you set all five processes in scope.
 
 
 
-\(1\) Click  ** Overview** .
+\(1\) Click  **Overview** .
 
 ![](Markdown_files/img_010.png)
 
@@ -152,7 +150,7 @@ Check that you set all five processes in scope.
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon09.png).
+\(1\) Click  ![](Markdown_files/fieldicon03.png).
 
 ![](Markdown_files/img_011.png)
 
@@ -162,7 +160,7 @@ Check that you set all five processes in scope.
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon10.png).
+\(1\) Click  ![](Markdown_files/fieldicon04.png).
 
 ![](Markdown_files/img_012.png)
 
@@ -172,7 +170,7 @@ Check that you set all five processes in scope.
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon11.png).
+\(1\) Click  ![](Markdown_files/fieldicon_267.png).
 
 ![](Markdown_files/img_013.png)
 
@@ -182,7 +180,7 @@ Check that you set all five processes in scope.
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon12.png).
+\(1\) Click on the phase![](Markdown_files/fieldicon05.png) in the Project tile.
 
 ![](Markdown_files/img_014.png)
 
@@ -192,7 +190,7 @@ Check that you set all five processes in scope.
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon13.png).
+\(1\) Click  ![](Markdown_files/fieldicon06.png).
 
 ![](Markdown_files/img_015.png)
 
@@ -204,7 +202,7 @@ Check that you set all five processes in scope.
 
 \(1\) Set project phase to  **Explore** .
 
-\(2\) Click  ![](Markdown_files/fieldicon14.png).
+\(2\) Click  ![](Markdown_files/fieldicon07.png).
 
 ![](Markdown_files/img_016.png)
 
@@ -214,7 +212,7 @@ Check that you set all five processes in scope.
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon15.png).
+\(1\) Click  ![](Markdown_files/fieldicon_279.png).
 
 ![](Markdown_files/img_017.png)
 

@@ -8,7 +8,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon.png).
+\(1\) Click the tile  **Project** .
 
 ![](Markdown_files/img_0.png)
 
@@ -18,7 +18,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon00.png).
+\(1\) Click  ![](Markdown_files/fieldicon.png).
 
 ![](Markdown_files/img_000.png)
 
@@ -28,23 +28,23 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-\(1\) Enter  **SAP S/4HANA Cloud &#64; Acron Heating Inc. \(&lt;Group&gt;\)**  with &lt;Group&gt; beein A or B as told by your instructor.
+\(1\) Enter  **SAP S/4HANA Cloud &#64; Acron Heating Inc. \(&lt;Group&gt;\)**  with &lt;Group&gt; being A or B as told by your instructor.
 
 \(2\) Select  **SAP S/4HANA Cloud** as Task Template.
 
-\(3\) Click  ![](Markdown_files/fieldicon01.png) as set  **Jan 4, 2021**  as End of Prepare Phase.
+\(3\) Click  ![](Markdown_files/fieldicon00.png) and set  **Jan 4, 2021**  as End of Prepare Phase.
 
-\(4\) Click  ![](Markdown_files/fieldicon02.png) as set  **Feb 8, 2021**  as End of Explore Phase.
+\(4\) Click  ![](Markdown_files/fieldicon01.png) and set  **Feb 8, 2021**  as End of Explore Phase.
 
-\(5\) Click  ![](Markdown_files/fieldicon03.png) as set  **Mar 8, 2021**  as End of Realize Phase.
-
- 
-
-\(6\) Click  ![](Markdown_files/fieldicon04.png) as set  **Apr 5, 2021**  as End of Deploy Phase.
+\(5\) Click  ![](Markdown_files/fieldicon02.png) and set  **Mar 8, 2021**  as End of Realize Phase.
 
  
 
-\(7\) Click ![](Markdown_files/fieldicon05.png) as set  **Apr 6, 2021**  as Start of Production \(Run Phase\).
+\(6\) Click  ![](Markdown_files/fieldicon03.png) and set  **Apr 5, 2021**  as End of Deploy Phase.
+
+ 
+
+\(7\) Click ![](Markdown_files/fieldicon04.png) and set  **Apr 6, 2021**  as Start of Production \(Run Phase\).
 
  
 
@@ -56,7 +56,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon06.png).
+\(1\) Click  ![](Markdown_files/fieldicon05.png).
 
 ![](Markdown_files/img_002.png)
 
@@ -66,7 +66,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon07.png).
+\(1\) Click  ![](Markdown_files/fieldicon_147.png).
 
 ![](Markdown_files/img_003.png)
 
@@ -76,7 +76,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon08.png).
+\(1\) Click  ![](Markdown_files/fieldicon06.png).
 
 ![](Markdown_files/img_004.png)
 
@@ -98,7 +98,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon09.png).
+\(1\) Click  ![](Markdown_files/fieldicon07.png).
 
 ![](Markdown_files/img_006.png)
 
@@ -108,7 +108,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon10.png) to get back to the launchpad.
+\(1\) Click  ![](Markdown_files/fieldicon_156.png) to get back to the launchpad.
 
 ![](Markdown_files/img_007.png)
 
@@ -118,7 +118,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon11.png).
+\(1\) Click the tile  **Overview** .
 
 ![](Markdown_files/img_008.png)
 
@@ -148,7 +148,7 @@ In this chapter you will setup the project used for implementing Acron Heatng's 
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon12.png).
+\(1\) Click  ![](Markdown_files/fieldicon_167.png).
 
 ![](Markdown_files/info_word.png)
 

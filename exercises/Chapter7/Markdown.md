@@ -18,11 +18,11 @@ Once changes have been implemented, it's time for proper manual testing \(for su
 
 
 
-\(1\) Set  **Sales Processes France**  in Scope filter.
+\(1\) Set  **Sales Processes France**  in the  **Scope filter** .
 
-\(2\) Set  **Sell from Stock \(BD9\)**  in Business Process filter.
+\(2\) Set  **Sell from Stock \(BD9\)**  in the  **Business Process filter** .
 
-\(3\) Click on  **BD9 \- 01 \- Sell from Stock** .
+\(3\) Click on the process flow  **BD9 \- 01 \- Sell from Stock** .
 
 ![](Markdown_files/img_000.png)
 
@@ -42,7 +42,7 @@ Once changes have been implemented, it's time for proper manual testing \(for su
 
 
 
-\(1\) Click to add Solution Activity to Test Case scope.
+\(1\) Click to add Solution  **Activity 7 "Create Sales Order"** to the Test Case scope.
 
 \(2\) Click  ![](Markdown_files/fieldicon00.png).
 
@@ -54,7 +54,7 @@ Once changes have been implemented, it's time for proper manual testing \(for su
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon01.png) to start editnig the Solution Action.
+\(1\) Click  ![](Markdown_files/fieldicon01.png) to start editing the Solution Action.
 
 ![](Markdown_files/img_003.png)
 
@@ -70,7 +70,7 @@ Once changes have been implemented, it's time for proper manual testing \(for su
 
  **Open Manage Sales Orders.** 
 
- **Fro the menu, choose Tile Catalog Sales\-Sales Order Processing and Tile Manage Sales Orders.** 
+ **From the menu, choose Tile Catalog Sales\-Sales Order Processing and Tile Manage Sales Orders.** 
 
 as Instructions.
 
@@ -118,7 +118,7 @@ as Instructions.
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon05.png) to add one more Solution Action.
+\(1\) Click on  ![](Markdown_files/fieldicon05.png) to add one more Solution Action.
 
 ![](Markdown_files/img_008.png)
 
@@ -162,7 +162,7 @@ as Instructions.
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon07.png).
+\(1\) Click on the  ![](Markdown_files/fieldicon07.png)button of point 1.3.
 
 ![](Markdown_files/img_011.png)
 
@@ -176,7 +176,7 @@ as Instructions.
 
 \(2\) Enter 
 
- **On the Create Stadnard Order: Overview screen, make the following entries:** 
+ **On the Create Standard Order: Overview screen, make the following entries:** 
 
 
 -   **Sold to party: 12100003** 
@@ -207,7 +207,7 @@ as Instructions.
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon09.png).
+\(1\) Click on the![](Markdown_files/fieldicon09.png)button of point 1.4.
 
 ![](Markdown_files/img_014.png)
 
@@ -222,6 +222,8 @@ as Instructions.
 \(2\) Enter  **Choose Save Document. Make a note of the sales order number: \_\_\_\_\_\_\_\_\_\_**  as Instructions.
 
 \(3\) Enter  **The order is saved and the order confirmation is printed out.**  as Expected Result.
+
+\(4\) Click  ![](Markdown_files/fieldicon_52.png).
 
 ![](Markdown_files/img_015.png)
 
@@ -261,7 +263,7 @@ as Instructions.
 
 
 
-\(1\) Navigate back to Launchpad.
+\(1\) Navigate back to Launchpad by clicking the SAP logo.
 
 ![](Markdown_files/img_019.png)
 
@@ -270,6 +272,8 @@ as Instructions.
 ### Step 22: Open Test Preparation
 
 
+
+\(1\) Click on the tile  **Test Preparation** .
 
 ![](Markdown_files/img_020.png)
 
@@ -283,7 +287,7 @@ as Instructions.
 
 \(2\) Set  **Sell from Stock \(BD9\)**  in Business Process filter.
 
-\(3\) Set Test Case Test Readiness.
+\(3\) Set Test Case Test Readiness for Process Flow  **BD9 \- 01 \- Sell from Stock** .
 
 ![](Markdown_files/img_021.png)
 
@@ -293,7 +297,7 @@ as Instructions.
 
 
 
-\(1\) Navigate back to Launchpad.
+\(1\) Navigate back to Launchpad by clicking the SAP logo.
 
 ![](Markdown_files/img_022.png)
 

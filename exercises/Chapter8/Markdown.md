@@ -8,7 +8,7 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 
 
-\(1\) Click  **Test Execution**  tile.
+\(1\) Click the  **Test Execution** tile.
 
 ![](Markdown_files/img_0.png)
 
@@ -40,6 +40,8 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 \(1\) Set Solution Actions 1.1 and 1.2 to  **Pass** .
 
+\(2\) Click  **entry 1.3**  to open the comment section.
+
 ![](Markdown_files/img_002.png)
 
 
@@ -52,7 +54,7 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 \(2\) Enter  **Recheck values**  as Comment.
 
-\(3\) Click  ![](Markdown_files/fieldicon00.png) to close Comment.
+\(3\) Click  ![](Markdown_files/fieldicon00.png) to close the comment section.
 
 ![](Markdown_files/img_003.png)
 
@@ -84,7 +86,7 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 
 
-\(1\) Navigate back to Launchpad.
+\(1\) Navigate back to Launchpad by clicking the SAP logo.
 
 ![](Markdown_files/img_006.png)
 
@@ -106,7 +108,7 @@ Last but not least, in this chapter, you will conduct a test run to test the pro
 
 ![](Markdown_files/info_word.png)
 
-Congratulations you made some progress and you concluded your SAP TechEd Session on SAP Cloud ALM successfully\!
+Congratulations, you made some progress and you concluded your SAP TechEd Session on SAP Cloud ALM successfully\!
 
 
 

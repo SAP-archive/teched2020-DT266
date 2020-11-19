@@ -52,11 +52,11 @@ Find  **Review and Complete Requirements**  task and click  ![](Markdown_files/f
 
 
 
-\(1\) Add test  **Check "Release Immediately" for Order Type "OR"**  to description field.
+\(1\) Add test  **Check "Release Immediately" for Order Type "OR"**  into the description box.
 
-\(2\) Set requirement follow\-up to  ![](Markdown_files/fieldicon00.png).
+\(2\) Set requirement follow\-up to  ![](Markdown_files/fieldicon_29.png).
 
-\(3\) Click  ![](Markdown_files/fieldicon01.png).
+\(3\) Click  ![](Markdown_files/fieldicon00.png).
 
 ![](Markdown_files/img_003.png)
 
@@ -76,7 +76,7 @@ Find  **Review and Complete Requirements**  task and click  ![](Markdown_files/f
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon02.png).
+\(1\) Click  ![](Markdown_files/fieldicon01.png).
 
 ![](Markdown_files/img_005.png)
 
@@ -86,7 +86,7 @@ Find  **Review and Complete Requirements**  task and click  ![](Markdown_files/f
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon03.png).
+\(1\) Click  ![](Markdown_files/fieldicon_37.png).
 
 ![](Markdown_files/img_006.png)
 
@@ -118,7 +118,7 @@ A task icon appears in front of the requirement after successful task genenratio
 
 The link behind "Task" allows you to navigate to the generated task.
 
-The link behind Business Process allows you to navigate to the origin of the linked requirement.
+The link behind "Business Process" allows you to navigate to the origin of the linked requirement.
 
 
 
@@ -134,7 +134,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 
 
-\(1\) Set  ![](Markdown_files/fieldicon04.png) \(your user\) as Assignee.
+\(1\) Set  ![](Markdown_files/fieldicon_50.png) \(your user\) as Assignee.
 
 ![](Markdown_files/img_009.png)
 
@@ -144,7 +144,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 
 
-\(1\) Navigate back to Launchpad.
+\(1\)  **Navigate back to Launchpad**  by clicking on the SAP logo.
 
 ![](Markdown_files/img_010.png)
 
@@ -154,7 +154,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 
 
-\(1\) Click  **Task**  to navigate to the task list.
+\(1\) Click the  **Tasks**  tile to navigate to the task list.
 
 ![](Markdown_files/img_011.png)
 
@@ -164,7 +164,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 
 
-\(1\) Find and check checkboxes for  **Review and Complete Requirements,**   **Approve Requirements by Generating Implementation Tasks** , and  **Confirm Scope and Requirements** .
+\(1\) Find and check checkboxes for  **Review and Complete Requirements,**  **Approve Requirements by Generating Implementation Tasks**  and  **Confirm Scope and Requirements** .
 
 ![](Markdown_files/img_012.png)
 
@@ -174,7 +174,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon05.png).
+\(1\) Click  ![](Markdown_files/fieldicon02.png).
 
 ![](Markdown_files/img_013.png)
 
@@ -186,7 +186,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 \(1\) Set status to  **Done** .
 
-\(2\) Click  ![](Markdown_files/fieldicon06.png).
+\(2\) Click  ![](Markdown_files/fieldicon03.png).
 
 ![](Markdown_files/img_014.png)
 
@@ -196,7 +196,7 @@ The link behind Business Process allows you to navigate to the origin of the lin
 
 
 
-\(1\) Navigate back to Launchpad.
+\(1\)  **Navigate back to Launchpad** by clicking the SAP logo.
 
 ![](Markdown_files/img_015.png)
 

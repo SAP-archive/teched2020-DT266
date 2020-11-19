@@ -8,7 +8,7 @@ Fit\-to\-Standard workshops are at the heart of every cloud implementation proje
 
 
 
-\(1\) Click  **Overview** .
+\(1\) Click the tile  **Overview** .
 
 ![](Markdown_files/img_0.png)
 
@@ -40,7 +40,7 @@ Fit\-to\-Standard workshops are at the heart of every cloud implementation proje
 
 
 
-\(1\) Find task  **Conduct Fit to Standard**  and click  ![](Markdown_files/fieldicon.png).
+\(1\) Find task  **Conduct Fit to Standard**  and click  ![](Markdown_files/fieldicon_524.png).
 
 ![](Markdown_files/img_002.png)
 
@@ -62,7 +62,7 @@ Fit\-to\-Standard workshops are at the heart of every cloud implementation proje
 
 \(1\)  
 
-Click  ![](Markdown_files/fieldicon00.png) to navigate to  **Sell from Stock \(BD9\)**  process flow.
+Click  ![](Markdown_files/fieldicon.png) to navigate to  **Sell from Stock \(BD9\)**  process flow.
 
  
 
@@ -74,7 +74,7 @@ Click  ![](Markdown_files/fieldicon00.png) to navigate to  **Sell from Stock \(B
 
 
 
-\(1\) Review process flow and click  ![](Markdown_files/fieldicon01.png).
+\(1\) Review process flow and click the process  **Create Sales Order** .
 
 ![](Markdown_files/img_005.png)
 
@@ -84,7 +84,7 @@ Click  ![](Markdown_files/fieldicon00.png) to navigate to  **Sell from Stock \(B
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon02.png) to create a requirement for Create Sales Order.
+\(1\) Click  ![](Markdown_files/fieldicon_537.png) to create a requirement for Create Sales Order.
 
 ![](Markdown_files/img_006.png)
 
@@ -94,13 +94,13 @@ Click  ![](Markdown_files/fieldicon00.png) to navigate to  **Sell from Stock \(B
 
 
 
-\(1\) Enter  **Adjust  Create Sales Order Release Strategy**  as requirement title.
+\(1\) Enter  **Adjust Create Sales Order Release Strategy Create Sales Order Release Strategy**  as requirement title.
 
-\(2\) Set ![](Markdown_files/fieldicon03.png) as Workstream.
+\(2\) Set  **Application Design and Configuration**  as Workstream.
 
 \(3\) Enter  **Please adjust order type so that the sales order is released immediately.** as description.
 
-\(4\) Click  ![](Markdown_files/fieldicon04.png).
+\(4\) Click  ![](Markdown_files/fieldicon00.png).
 
 ![](Markdown_files/img_007.png)
 
@@ -110,7 +110,7 @@ Click  ![](Markdown_files/fieldicon00.png) to navigate to  **Sell from Stock \(B
 
 
 
-\(1\) Make sure Create Sales Order is marked and then click ![](Markdown_files/fieldicon05.png).
+\(1\) Make sure Create Sales Order is marked and then click ![](Markdown_files/fieldicon_551.png).
 
 ![](Markdown_files/img_008.png)
 
@@ -120,7 +120,7 @@ Click  ![](Markdown_files/fieldicon00.png) to navigate to  **Sell from Stock \(B
 
 
 
-\(1\) Enter  **Releasing Sales Order**  in the  text field.
+\(1\) Enter  **Releasing Sales Order**  in the  **Title**  text field.
 
 \(2\) Enter  **Release of Sales Order is not exactly like releasing Purchase Orders.** 
 
@@ -128,7 +128,7 @@ Click  ![](Markdown_files/fieldicon00.png) to navigate to  **Sell from Stock \(B
 
 as description
 
-\(3\) Click  ![](Markdown_files/fieldicon06.png).
+\(3\) Click  ![](Markdown_files/fieldicon01.png).
 
 ![](Markdown_files/img_009.png)
 
@@ -140,13 +140,13 @@ as description
 
 ![](Markdown_files/info_word.png)
 
-Check the requirement and note are visible in the side panel.
+Check if the requirement and note are visible in the side panel.
 
 
 
  
 
-\(1\) Click  ![](Markdown_files/fieldicon07.png) the side panel.
+\(1\) Click  ![](Markdown_files/fieldicon02.png) the side panel.
 
 ![](Markdown_files/img_010.png)
 
@@ -156,7 +156,7 @@ Check the requirement and note are visible in the side panel.
 
 
 
-\(1\) Find  **Credit Management \(BD6\)**  and click  ![](Markdown_files/fieldicon08.png) to navigate to the process flow of the related process.
+\(1\) Find  **Credit Management \(BD6\) \- Review of Blocked Sales Orders**  and click  ![](Markdown_files/fieldicon03.png) to navigate to the process flow of the related process.
 
 ![](Markdown_files/img_011.png)
 
@@ -166,7 +166,7 @@ Check the requirement and note are visible in the side panel.
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon09.png) to navigate back to Launchpad.
+\(1\) Click  ![](Markdown_files/fieldicon_580.png) to navigate back to Launchpad.
 
 ![](Markdown_files/img_012.png)
 
@@ -186,9 +186,9 @@ Check the requirement and note are visible in the side panel.
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon10.png) in Scope filter.
+\(1\) Click  **Sales Processes France**  in Scope filter.
 
-\(2\) Find task  **Conduct Fit to Standard**  and click  ![](Markdown_files/fieldicon11.png).
+\(2\) Find task  **Conduct Fit to Standard**  and click  ![](Markdown_files/fieldicon04.png).
 
 \(3\) Navigate back to Launchpad.
 

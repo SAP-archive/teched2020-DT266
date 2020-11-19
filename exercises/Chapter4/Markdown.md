@@ -8,7 +8,7 @@ At project setup you choose a SAP S/4HANA Cloud Roadmap as project tempalte. As 
 
 
 
-\(1\) Click  **Overview**  tile.
+\(1\) Click the  **Overview**  tile.
 
 ![](Markdown_files/img_0.png)
 
@@ -30,7 +30,7 @@ At project setup you choose a SAP S/4HANA Cloud Roadmap as project tempalte. As 
 
 \(1\) Search list for "migration" tasks.
 
-\(2\) Click check all relevant tasks.
+\(2\) Check all relevant tasks \(Conduct Final Data Quality Assessment\).
 
 ![](Markdown_files/img_001.png)
 
@@ -50,9 +50,9 @@ At project setup you choose a SAP S/4HANA Cloud Roadmap as project tempalte. As 
 
 
 
-\(1\) Setz status  ![](Markdown_files/fieldicon00.png).
+\(1\) Set status to  **Not Relevant** .
 
-\(2\) Click  ![](Markdown_files/fieldicon01.png).
+\(2\) Click  ![](Markdown_files/fieldicon00.png).
 
 ![](Markdown_files/img_003.png)
 
@@ -62,7 +62,7 @@ At project setup you choose a SAP S/4HANA Cloud Roadmap as project tempalte. As 
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon02.png).
+\(1\) Click  ![](Markdown_files/fieldicon01.png).
 
 ![](Markdown_files/img_004.png)
 
@@ -84,7 +84,7 @@ You can also adjust the other properties. For instance you can set a phase or as
 
 \(2\) Enter  **Some good drinks and fingerfood\!**  as description.
 
-\(3\) Click  ![](Markdown_files/fieldicon03.png).
+\(3\) Click  ![](Markdown_files/fieldicon02.png).
 
 ![](Markdown_files/img_005.png)
 
@@ -94,7 +94,7 @@ You can also adjust the other properties. For instance you can set a phase or as
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon04.png) to close the task.
+\(1\) Click  ![](Markdown_files/fieldicon03.png) to close the task.
 
 ![](Markdown_files/img_006.png)
 
@@ -104,7 +104,7 @@ You can also adjust the other properties. For instance you can set a phase or as
 
 
 
-\(1\) Set ![](Markdown_files/fieldicon05.png) for Source filter to find manual tasks only.
+\(1\) Set ** Manual** for Source filter to find manual tasks only.
 
 ![](Markdown_files/img_007.png)
 
@@ -114,7 +114,7 @@ You can also adjust the other properties. For instance you can set a phase or as
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon06.png).
+\(1\) Click  ![](Markdown_files/fieldicon_439.png).
 
 ![](Markdown_files/img_008.png)
 
@@ -124,7 +124,7 @@ You can also adjust the other properties. For instance you can set a phase or as
 
 
 
-\(1\) Click  ![](Markdown_files/fieldicon0000.png) to navigate back to the Launchpad.
+\(1\) Click  ![](Markdown_files/fieldicon_445.png) to navigate back to the Launchpad.
 
 ![](Markdown_files/img_009.png)
 
