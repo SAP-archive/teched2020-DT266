@@ -10,9 +10,7 @@ Core Capabilities of SAP Cloud ALM for implementations are:
 - Test: Planning, Manual Testing, Test Automation
 - Change & Deploy: Requirements Management
 
-All SAP Enterprise Support, cloud edition customers are eligible to use SAP Cloud ALM for free (based on fair usage rights).
-
-For more information, please visit: [https://support.sap.com/en/alm/sap-cloud-alm.html](https://support.sap.com/en/alm/sap-cloud-alm.html)
+All SAP Enterprise Support, cloud edition customers are eligible to use SAP Cloud ALM for free (based on fair usage rights). For more information, please visit: [https://support.sap.com/en/alm/sap-cloud-alm.html](https://support.sap.com/en/alm/sap-cloud-alm.html)
 Or contact us via [cloudalm@sap.com](cloudalm@sap.com).
 
 **Interested in test driving SAP Cloud ALM? Then you are in the right session!!**
