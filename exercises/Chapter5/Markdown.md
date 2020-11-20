@@ -1,4 +1,4 @@
-﻿[Back](README.md)
+﻿[Back](/README.md)
 
 ---
 
@@ -200,5 +200,5 @@ Check if the requirement and note are visible in the side panel.
 
 ---
 
-[Back](README.md)
+[Back](/README.md)
 

@@ -1,4 +1,4 @@
-﻿[Back](README.md)
+﻿[Back](/README.md)
 
 ---
 
@@ -166,5 +166,5 @@ Repeat steps 12 and 13 with task "Assign Team Members".
 
 ---
 
-[Back](README.md)
+[Back](/README.md)
 

@@ -1,4 +1,4 @@
-﻿[Back](README.md)
+﻿[Back](/README.md)
 
 ---
 
@@ -238,5 +238,5 @@ Check that current phase is  **Explore** .
 
 ---
 
-[Back](README.md)
+[Back](/README.md)
 

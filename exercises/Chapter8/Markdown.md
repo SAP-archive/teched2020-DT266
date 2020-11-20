@@ -1,4 +1,4 @@
-﻿[Back](README.md)
+﻿[Back](/README.md)
 
 ---
 
@@ -122,5 +122,5 @@ Congratulations, you made some progress and you concluded your SAP TechEd Sessio
 
 ---
 
-[Back](README.md)
+[Back](/README.md)
 

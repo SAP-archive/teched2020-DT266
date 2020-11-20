@@ -1,4 +1,4 @@
-﻿[Back](README.md)
+﻿[Back](/README.md)
 
 ---
 
@@ -134,5 +134,5 @@ You can also adjust the other properties. For instance you can set a phase or as
 
 ---
 
-[Back](README.md)
+[Back](/README.md)
 

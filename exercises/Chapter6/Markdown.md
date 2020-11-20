@@ -1,4 +1,8 @@
-﻿## Chapter 6: Finalize and Approve Requirements
+﻿[Back](/README.md)
+
+---
+
+## Chapter 6: Finalize and Approve Requirements
 
 After conducting Fit\-to\-Standard workshops, you will review, complete, and approve requirements to drive the implementation further. In this chapter you will learn how to complete requirements, and approve them  in order to create tasks that can be assigned to project team members.
 
@@ -202,5 +206,5 @@ The link behind "Business Process" allows you to navigate to the origin of the l
 
 ---
 
-[Back](README.md)
+[Back](/README.md)
 

@@ -62,4 +62,4 @@ You succesfully accessed your SAP Cloud ALM tenant.
 
 ---
 
-[Back](README.md)
+[Back](/README.md)
