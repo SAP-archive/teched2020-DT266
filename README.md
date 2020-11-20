@@ -2,18 +2,32 @@
 
 ## Overview
 
+SAP Cloud ALM is SAP’s brand-new, cloud-native application lifecycle management tool for public cloud customers, also supporting hybrid and private cloud customers. It provides preconfigured, out-of-the-box processes to support implementation projects plus offering SAP Activate methodology, content and tools to kick-start your transition to the cloud. 
+
+Core Capabilities of SAP Cloud ALM for implementations are:
+- Process: Scoping, Implementation, Guidance, Modeling
+- Task: Roadmap consumption, Task assignment & distribution
+- Test: Planning, Manual Testing, Test Automation
+- Change & Deploy: Requirements Management
+
+All SAP Enterprise Support, cloud edition customers are eligible to use SAP Cloud ALM for free (based on fair usage rights).
+
+For more information, please visit: [https://support.sap.com/en/alm/sap-cloud-alm.html](https://support.sap.com/en/alm/sap-cloud-alm.html)
+Or contact us via [cloudalm@sap.com](cloudalm@sap.com).
+
+**Interested in test driving SAP Cloud ALM? Then you are in the right session!!**
+
+## Scenario
+
 **Good day!**
 
-Today you take the hat of Bobby Blair who is a Business Process Expert and working as Project Lead for the SAP S/4HANA Clound implementation at Acron Heating Inc. The implementation project focusses on implementing sales processes in Acon's french subsidary.​
+Today you will take the hat of Bobby Blair who is a Business Process Expert and works as Project Lead for the SAP S/4HANA Clound implementation at Acron Heating Inc. 
+The implementation project focuses on implementing sales processes at Acron's french subsidary.
+Bobby is very experienced, but he appreciates guidance on how to setup and manage SAP implementation projects especially in the cloud. Luckily Bobby can use SAP Cloud ALM.
+In this workshop you will learn how SAP Cloud ALM can help Bobby (you) to run a successful implementation project. 
 
-Eventhough Bobby is very experienced, guidance on how to setup and manage SAP implementation projects especially in the cloud is highls appreciated. Luckily Bobby can use SAP Cloud ALM.
-
-In this workshop you will lean how SAP Cloud ALM can help Bobby (you)  to run a successful project. 
-Now you can get started. We hope you enjoy the session.
-
-​Cheers, 
-
-**Your SAP Cloud ALM team**
+Now you are ready to start… 
+…Enjoy the session.
 
 ## Requirements
 
