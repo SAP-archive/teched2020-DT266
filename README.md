@@ -1,5 +1,7 @@
 # DT266 - Implement SAP S/4HANA Cloud with SAP Best Practices Using SAP Cloud ALM
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-DT266)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-DT266)
+
 ## Overview
 
 SAP Cloud ALM is SAP’s brand-new, cloud-native application lifecycle management tool for public cloud customers, also supporting hybrid and private cloud customers. It provides preconfigured, out-of-the-box processes to support implementation projects plus offering SAP Activate methodology, content and tools to kick-start your transition to the cloud. 
